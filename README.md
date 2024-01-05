@@ -1,5 +1,6 @@
 # Zerodha Kite Trading dashboard with bokeh
-this is an options trading dashboard using bokeh library with moving averages 20,50,100 and vwap. this dashboard also utilizes a deep learning model to calculate the next candle. 
+this is an options trading dashboard using bokeh library with moving averages 20,50,100 and vwap. 
+this comes with a feature to use a ghost candle formed by the deep learning model.
 
 # Required Libraries
 1) bokeh (3.3.0)
