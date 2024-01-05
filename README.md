@@ -6,8 +6,7 @@ this comes with a feature to use a ghost candle formed by the deep learning mode
 ## pre-requisites
 1) you need to update the cred.py file, you need to give your zerodha id, zerodha password and zerodha otp qr code key
 ## run command
-<code>
-bokeh serve --show TradeApp_v1.py
+<code>bokeh serve --show TradeApp_v1.py
 </code>
 
 # Required Libraries
