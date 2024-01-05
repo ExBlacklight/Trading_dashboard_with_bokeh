@@ -1,5 +1,5 @@
 from kiteconnect import KiteConnect,KiteTicker
-import reqTokenTOTP as reqToken
+import autoLogin as reqToken
 import numpy as np
 from datetime import datetime,time,timedelta
 import os
