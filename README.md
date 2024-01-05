@@ -2,6 +2,14 @@
 this is an options trading dashboard using bokeh library with moving averages 20,50,100 and vwap. 
 this comes with a feature to use a ghost candle formed by the deep learning model.
 
+# running the script
+## pre-requisites
+1) you need to update the cred.py file, you need to give your zerodha id, zerodha password and zerodha otp qr code key
+## run command
+<code>
+bokeh serve --show TradeApp_v1.py
+</code>
+
 # Required Libraries
 1) bokeh (3.3.0)
 2) pyotp (2.9.0)
